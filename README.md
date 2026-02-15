@@ -1,12 +1,12 @@
 # Project_Manangement_App
 
-About the project:
+
 ✍🏼
   Project Camp Backend is a fully-featured RESTful API built to power a collaborative project management system. It enables teams to create projects, manage tasks and subtasks, collaborate through notes, and control access with a secure role-based permission system.
   This backend focuses on structured teamwork, clean authorization logic, and secure authentication, making it a solid foundation for any project management application.
 
 
-// Implementation:
+
 🔐 Secure Authentication & Role-Based Access
   The system implements JWT-based authentication with refresh tokens, email verification, password reset, and secure session handling.
   It follows a three-tier role model:
