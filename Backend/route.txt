@@ -1,0 +1,11 @@
+Routes:-
+
+1> GET - http://localhost:3000/ // home route
+
+2> GET - http://localhost:3000/api/v1/healthCheck // to check if the server is running
+
+3> POST - http://localhost:3000/api/v1/auth/register // to register a user -> provide (username, email, password, fullName)
+
+4> POST - http://localhost:3000/api/v1/auth/login // to login a user -> provide (username, email, password)
+
+5> POST - http://localhost:3000/api/v1/auth/logout // to securely logout a user
