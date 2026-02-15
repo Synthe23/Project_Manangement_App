@@ -1,4 +1,3 @@
-
 import { body } from "express-validator";
 
 // Validator for the register route
